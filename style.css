@@ -1,3 +1,20 @@
 body {
     font-size: 15pt;
 }
+
+.container{
+    border-radius:30px;
+}
+
+.scroll-container{
+    scroll-behavior: smooth;
+}
+
+p {
+    color:white;
+}
+
+u{
+    color:white;
+}
+
